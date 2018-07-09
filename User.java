@@ -1,6 +1,7 @@
 public class User{
 private int userId;
 private String userName;
+private byte age;
 
   public void setUserId(int UserId){
     this.userId=userId
